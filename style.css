@@ -1,0 +1,11 @@
+#my {
+    background-image: url(img/2.png);
+    height: 100px;
+    /*Find a way to remove the white bordering*/
+}
+
+#my h1 {
+    text-align: center;
+    color: #eee;
+    
+}
